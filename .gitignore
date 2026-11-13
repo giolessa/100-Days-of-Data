@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+
+# Datasets pesados e arquivos sensoriais
+*.csv
+*.parquet
+*.xlsx
+*.db
+.env
