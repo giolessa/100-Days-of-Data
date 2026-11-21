@@ -34,7 +34,7 @@ SQL · Python · Pandas · NumPy · Power BI · data fundamentals · cloud compu
 - [x] SQL M1: NULL, COALESCE, CASE WHEN, DISTINCT
 - [x] Pandas M3: new columns (`apply`, `map`, `np.where`)
 - [x] SQL M2: JOINs
-- [ ] Cloud: concepts (IaaS/PaaS/SaaS, shared responsibility, regions and AZs)
+- [x] Cloud: concepts (IaaS/PaaS/SaaS, shared responsibility, regions and AZs)
 - [x] NumPy: arrays, indexing, vectorization
 - [x] Pandas M4: data cleaning
 - [x] Documentation: Pandas M3–M4, SQL M2
