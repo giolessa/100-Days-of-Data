@@ -18,8 +18,9 @@ SQL · Python · Pandas · NumPy · Power BI · data fundamentals · cloud compu
 | 2 | 2026-11-15 | SQL: NULL, COALESCE, CASE WHEN, DISTINCT | `IS NULL`, `COALESCE`, `CASE WHEN`, `DISTINCT`, logical order of execution | [notes](01-sql/01-fundamentals/01-null-coalesce-case-distinct.md) | — |
 | 3 | 2026-11-16 | Pandas: `loc`, `iloc` and filters | label vs position selection, boolean masks, `&` `\|` `~`, `isin`, `between` | [notes](02-python/02-pandas/02-loc-iloc-filters.md) | [notebook](02-python/02-pandas/02-loc-iloc-filters.ipynb) |
 | 4 | 2026-11-17 | NumPy fundamentals + SQL JOINs | arrays, `shape`, `dtype`, vectorization; `INNER`/`LEFT JOIN`, anti-join, self join | [numpy](02-python/01-numpy/01-arrays-shape-dtype-vectorized-operations.md) · [sql](01-sql/01-fundamentals/02-joins.md) | [notebook](02-python/01-numpy/01-arrays-shape-dtype-vectorized-operations.ipynb) |
-| 5 | 2026-11-19 | Pandas: new columns | `np.where`, `np.select`, `map`, `apply` (`axis=1`) | [notes](02-python/02-pandas/03-new-columns.md) | [notebook](02-python/02-pandas/03-new-columns.ipynb) |
-| 6 | 2026-11-21 | Pandas: data cleaning | nulls, duplicates, `errors="coerce"`, dates, order of cleaning steps | [notes](02-python/02-pandas/04-data-cleaning.md) | [notebook](02-python/02-pandas/04-data-cleaning.ipynb) |
+| 5 | 2026-11-18 | Cloud: concepts | IaaS/PaaS/SaaS, deployment models, shared responsibility, regions and AZs | [notes](06-cloud/01-cloud-concepts.md) | — |
+| 6 | 2026-11-19 | Pandas: new columns | `np.where`, `np.select`, `map`, `apply` (`axis=1`) | [notes](02-python/02-pandas/03-new-columns.md) | [notebook](02-python/02-pandas/03-new-columns.ipynb) |
+| 7 | 2026-11-21 | Pandas: data cleaning | nulls, duplicates, `errors="coerce"`, dates, order of cleaning steps | [notes](02-python/02-pandas/04-data-cleaning.md) | [notebook](02-python/02-pandas/04-data-cleaning.ipynb) |
 
 ## Repository structure
 
