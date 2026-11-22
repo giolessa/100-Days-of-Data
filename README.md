@@ -21,6 +21,7 @@ SQL · Python · Pandas · NumPy · Power BI · data fundamentals · cloud compu
 | 5 | 2026-11-18 | Cloud: concepts | IaaS/PaaS/SaaS, deployment models, shared responsibility, regions and AZs | [notes](06-cloud/01-cloud-concepts.md) | — |
 | 6 | 2026-11-19 | Pandas: new columns | `np.where`, `np.select`, `map`, `apply` (`axis=1`) | [notes](02-python/02-pandas/03-new-columns.md) | [notebook](02-python/02-pandas/03-new-columns.ipynb) |
 | 7 | 2026-11-21 | Pandas: data cleaning | nulls, duplicates, `errors="coerce"`, dates, order of cleaning steps | [notes](02-python/02-pandas/04-data-cleaning.md) | [notebook](02-python/02-pandas/04-data-cleaning.ipynb) |
+| 8 | 2026-11-22 | Pandas: aggregation | `groupby`, named aggregation, `size` vs `count`, `reset_index`, `value_counts`, `pivot_table` | [notes](02-python/02-pandas/05-aggregation.md) | [notebook](02-python/02-pandas/05-aggregation.ipynb) |
 
 ## Repository structure
 
