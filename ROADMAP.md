@@ -42,7 +42,7 @@ SQL · Python · Pandas · NumPy · Power BI · data fundamentals · cloud compu
 ### Week 2: 2026-11-23 to 2026-11-29 (days 10–16)
 
 - [ ] SQL M3: precise aggregation
-- [ ] Pandas M5: `groupby`, `agg`, `pivot_table`
+- [x] Pandas M5: `groupby`, `agg`, `pivot_table`
 - [ ] NumPy: statistics, broadcasting, Pandas integration
 - [ ] Power BI 1: interface, data import, Power Query
 - [ ] Cloud: core AWS services (EC2, S3, IAM, RDS)
