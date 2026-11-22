@@ -80,13 +80,6 @@ SQL · Python · Pandas · NumPy · Power BI · data fundamentals · cloud compu
 - [ ] Cloud mock exam 3
 - [ ] Decide the exam date
 
-## Cloud certification
-
-Target: **AWS Certified Cloud Practitioner (CLF-C02)**.
-
-- Format: 90 minutes, 65 scored questions, passing score 700/1000, fee about US$100 (check the price at checkout, it can vary with the exchange rate).
-- Target window: week of 2026-12-14 to 2026-12-20, only if mock exam scores are consistently around 80% or higher. Otherwise postpone by one or two weeks.
-
 ## After the sprint (days 33–100: 2026-12-16 to 2027-02-21)
 
 - [ ] Python for pipelines: APIs, SQLAlchemy, logging, tests
